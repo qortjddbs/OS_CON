@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OperatingSystem\\OS_CON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OperatingSystem\\OS_CON\\sum_2thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|solutionrelative:sum_2thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OperatingSystem\\OS_CON\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|solutionrelative:sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sum_2thread.cpp",
+              "DocumentMoniker": "C:\\OperatingSystem\\OS_CON\\sum_2thread.cpp",
+              "RelativeDocumentMoniker": "sum_2thread.cpp",
+              "ToolTip": "C:\\OperatingSystem\\OS_CON\\sum_2thread.cpp",
+              "RelativeToolTip": "sum_2thread.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-05T10:08:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sum.cpp",
+              "DocumentMoniker": "C:\\OperatingSystem\\OS_CON\\sum.cpp",
+              "RelativeDocumentMoniker": "sum.cpp",
+              "ToolTip": "C:\\OperatingSystem\\OS_CON\\sum.cpp",
+              "RelativeToolTip": "sum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-05T09:49:33.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
