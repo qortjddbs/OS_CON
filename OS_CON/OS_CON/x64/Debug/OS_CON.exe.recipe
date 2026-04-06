@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\OperatingSystem\OS_CON\x64\Debug\OS_CON.exe</FullPath>
+      <FullPath>C:\OS_CON\OS_CON\x64\Debug\OS_CON.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\OperatingSystem\\OS_CON\\",
+  "WorkspaceRootPath": "C:\\OS_CON\\OS_CON\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OperatingSystem\\OS_CON\\sum_2thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OS_CON\\OS_CON\\bakery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|solutionrelative:bakery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OS_CON\\OS_CON\\sum_LOCK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|solutionrelative:sum_LOCK.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OS_CON\\OS_CON\\peterson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|solutionrelative:peterson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OS_CON\\OS_CON\\sum_2thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|solutionrelative:sum_2thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OperatingSystem\\OS_CON\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|C:\\OS_CON\\OS_CON\\sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6B702FF-63B9-4A13-BD86-5FF4F490C188}|OS_CON.vcxproj|solutionrelative:sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,28 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bakery.cpp",
+              "DocumentMoniker": "C:\\OS_CON\\OS_CON\\bakery.cpp",
+              "RelativeDocumentMoniker": "bakery.cpp",
+              "ToolTip": "C:\\OS_CON\\OS_CON\\bakery.cpp*",
+              "RelativeToolTip": "bakery.cpp*",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv3wAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-06T16:19:19.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "peterson.cpp",
+              "DocumentMoniker": "C:\\OS_CON\\OS_CON\\peterson.cpp",
+              "RelativeDocumentMoniker": "peterson.cpp",
+              "ToolTip": "C:\\OS_CON\\OS_CON\\peterson.cpp",
+              "RelativeToolTip": "peterson.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-06T16:03:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sum_LOCK.cpp",
+              "DocumentMoniker": "C:\\OS_CON\\OS_CON\\sum_LOCK.cpp",
+              "RelativeDocumentMoniker": "sum_LOCK.cpp",
+              "ToolTip": "C:\\OS_CON\\OS_CON\\sum_LOCK.cpp",
+              "RelativeToolTip": "sum_LOCK.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv4UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-06T15:06:19.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "sum_2thread.cpp",
-              "DocumentMoniker": "C:\\OperatingSystem\\OS_CON\\sum_2thread.cpp",
+              "DocumentMoniker": "C:\\OS_CON\\OS_CON\\sum_2thread.cpp",
               "RelativeDocumentMoniker": "sum_2thread.cpp",
-              "ToolTip": "C:\\OperatingSystem\\OS_CON\\sum_2thread.cpp*",
-              "RelativeToolTip": "sum_2thread.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\OS_CON\\OS_CON\\sum_2thread.cpp",
+              "RelativeToolTip": "sum_2thread.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-05T10:08:16.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "sum.cpp",
-              "DocumentMoniker": "C:\\OperatingSystem\\OS_CON\\sum.cpp",
+              "DocumentMoniker": "C:\\OS_CON\\OS_CON\\sum.cpp",
               "RelativeDocumentMoniker": "sum.cpp",
-              "ToolTip": "C:\\OperatingSystem\\OS_CON\\sum.cpp",
+              "ToolTip": "C:\\OS_CON\\OS_CON\\sum.cpp",
               "RelativeToolTip": "sum.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-05T09:49:33.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T09:49:33.428Z"
             }
           ]
         }
