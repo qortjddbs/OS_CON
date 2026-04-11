@@ -3,14 +3,16 @@
 #include <atomic>
 #include <mutex>
 
-int sum;
-std::atomic<bool> flag[2] = { false, false };
-std::atomic<int> victim;
+volatile int sum;
+volatile bool flag[2] = { false, false };
+volatile int victim;
 void p_lock(const int th_id)
 {
 	const int other = 1 - th_id;
 	flag[th_id] = true;
 	victim = th_id;
+	// _asm mfence;
+	std::atomic_thread_fence(std::memory_order_seq_cst);
 	while (true == flag[other] && victim == th_id);
 }
 
